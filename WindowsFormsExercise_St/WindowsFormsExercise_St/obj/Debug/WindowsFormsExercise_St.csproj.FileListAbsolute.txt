@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\bin\Debug\WindowsFormsExercise_St.exe.config
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\bin\Debug\WindowsFormsExercise_St.exe
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\bin\Debug\WindowsFormsExercise_St.pdb
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\obj\Debug\WindowsFormsExercise_St.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\obj\Debug\WindowsFormsExercise_St.Form1.resources
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\obj\Debug\WindowsFormsExercise_St.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\obj\Debug\WindowsFormsExercise_St.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\obj\Debug\WindowsFormsExercise_St.exe
+C:\Users\user\source\repos\WindowsFormsExercise_St\WindowsFormsExercise_St\obj\Debug\WindowsFormsExercise_St.pdb
